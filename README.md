@@ -19,12 +19,12 @@ functions.py - Includes the various functions used in the program, including the
 main.py - Runs the functions and contains the print functionality.
 new_food_data.csv - CSV file containing all the data
 cal_and_min.csv - CSV file containing data for calories vs. minutes of exercise regression model
+
 Library Credits:
+- fuzzyWuzzy by Jake Bayer
 
-fuzzyWuzzy by Jake Bayer
+- levenshtein by Zdenek Nozicka
 
-levenshtein by Zdenek Nozicka
+- SKLearn
 
-SKLearn
-
-pandas
+- pandas
