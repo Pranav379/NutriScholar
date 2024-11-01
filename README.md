@@ -25,6 +25,6 @@ Library Credits:
 
 - levenshtein by Zdenek Nozicka
 
-- SKLearn
+- SK-Learn
 
 - pandas
